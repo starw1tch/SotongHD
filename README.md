@@ -1,0 +1,2 @@
+# SotongHD
+Intinya upscale gambar 

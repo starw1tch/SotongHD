@@ -1,0 +1,6 @@
+# SotongHD Requirements
+requests>=2.25.0
+PySide6>=6.0.0
+selenium>=4.0.0
+pillow>=9.0.0  # For image format conversion
+qtawesome>=1.2.1  # For icons
